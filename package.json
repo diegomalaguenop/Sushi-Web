@@ -1,0 +1,19 @@
+{
+  "name": "sushi",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "appwrite": "^11.0.0",
+    "firebase": "^9.23.0"
+  }
+}
